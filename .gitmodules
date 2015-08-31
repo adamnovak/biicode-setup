@@ -1,0 +1,3 @@
+[submodule "biicode"]
+	path = biicode
+	url = https://github.com/adamnovak/biicode.git
